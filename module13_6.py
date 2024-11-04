@@ -7,7 +7,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 import asyncio
 
-API_TOKEN = '7621891088:AAFbxb5UDSUYg2wFWrR1DQEZgEbkc9kSDmU'
+API_TOKEN = ''
 
 # Создаем класс состояний
 class UserState(StatesGroup):
